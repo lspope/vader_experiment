@@ -10,13 +10,14 @@ Blog: [Coming Soon!](https://lspope.github.io/)
 
 # Introduction
 
-The goal of this experiment is to compare human labeled sentiment (the gold standard) to VADER labeled sentiment for two similar sets of Tweets.
+The goal of this experiment is to compare human labeled sentiment (the gold standard) to [VADER (Valence Aware Dictionary and sEntiment Reasoner)](https://github.com/cjhutto/vaderSentiment) labeled sentiment for two similar sets of Tweets.
 
 This is a follow-on from my [Flatiron Phase 4 Project](https://github.com/lspope/dsc-phase-4-project) where I built a text classifer to classify Tweets as either Positive, Negative, or Neutral. 
 
 
 # Data
 The datasets are from [CrowdFlower](https://data.world/crowdflower). I used the [Product Emotions](https://data.world/crowdflower/brands-and-product-emotions) and [Apple Tweets](https://data.world/crowdflower/apple-twitter-sentiment) dataset.
+
 
 
 # Repository Structure
